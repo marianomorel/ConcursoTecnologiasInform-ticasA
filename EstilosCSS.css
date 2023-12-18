@@ -67,7 +67,7 @@ grid-container > *{ /*repasar esto*/
 .aside{
     background-color: white;
     grid-area: aside;
-    background-image: url(css.PNG);
+    background-image: url(img/css.PNG);
     background-repeat: no-repeat;
     background-position: center;
 }
